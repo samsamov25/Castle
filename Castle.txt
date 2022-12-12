@@ -1,3 +1,4 @@
 1. Add base (1000$)
 2. Add prison (2000$)
 3. Add kitchen (3000$)
+4. Add new building (4000$)
