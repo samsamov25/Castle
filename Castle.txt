@@ -1,3 +1,3 @@
-1. Add base
-2. Add prison
-3. Add kitchen
+1. Add base (1000$)
+2. Add prison (2000$)
+3. Add kitchen (3000$)
