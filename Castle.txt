@@ -1,3 +1,4 @@
 1. Add base
 2. Add prison
 3. Add kitchen
+4. Add new building
